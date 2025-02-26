@@ -18,6 +18,7 @@ minnesota = Place.new
 minnesota["name"] = "Minnesota"
 minnesota.save
 
+#entry_break
 
 wake = Entry.new
 wake["title"] = "Tried Wake Boarding"
